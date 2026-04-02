@@ -1,0 +1,7 @@
+             uid              |          email          |    name     |      createdat      |     lastactive      |      updatedat      |  discord  | instagram |    facebook    |                 bio                 | intent  |      interests      |                         photourl                         
+------------------------------+-------------------------+-------------+---------------------+---------------------+---------------------+-----------+-----------+----------------+-------------------------------------+---------+---------------------+----------------------------------------------------------
+ 225975d5e7184c88ac1ab2ea3ca4 | sage.brown87@gmail.com  | Sage Brown  | 2025-10-23 09:07:54 | 2026-03-20 12:38:24 | 2026-01-31 11:49:26 |           |           |                |                                     |         |                     | 
+ 214728cc6a1745239b04d400b9a3 | avery.white76@yahoo.com | Avery White | 2025-03-25 10:32:41 | 2026-02-22 08:48:48 | 2026-02-07 13:16:30 | alex_9295 |           | hayden.jackson | Bike enthusiast and bargain hunter. | both    | furniture           | 
+ 750e223c56f04b14b9ec26aaf89f | quinn.green6@gmail.com  | Quinn Green | 2025-05-11 16:06:41 | 2026-03-20 01:59:34 | 2026-02-04 04:06:28 |           |           |                | Bike enthusiast and bargain hunter. | selling | clothing|appliances | https://i.pravatar.cc/150?u=750e223c56f04b14b9ec26aaf89f
+(3 rows)
+
